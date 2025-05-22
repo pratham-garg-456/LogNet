@@ -85,5 +85,5 @@ The solution uses **UDP** for fast, non-blocking log message delivery and suppor
 
 ## Authors
 
-- UNX511 Assignment 3
-- Contributors: [Your Name(s) Here]
+- UNX511 Assignment 3 - Seneca Polytechnic
+- Contributors: Pratham Garg
