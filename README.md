@@ -1,6 +1,4 @@
-# UNX511 - Assignment 3: Embedded Debug Logging
-
-**Short Name:** LogNet
+# Embedded Debug Logging
 
 ## Overview
 
