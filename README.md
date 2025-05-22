@@ -9,6 +9,15 @@ This project implements an embedded debug logging system—**LogNet**—designed
 The solution uses **UDP** for fast, non-blocking log message delivery and supports runtime configuration of log filtering.
 
 ---
+# Demo 
+
+
+
+https://github.com/user-attachments/assets/2578e8ab-d63d-4c0f-ad2c-526d46a54d4c
+
+
+
+
 
 ## Features & Key Functionalities
 
